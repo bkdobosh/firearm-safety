@@ -1,0 +1,72 @@
+[
+
+	{
+		"question" : "Complete the following statement with the appropriate answer. You should always keep the muzzle pointed _______",	
+		"answers"   : [
+			{ "id" : 0, "text" : "toward the sky."},
+			{ "id" : 1, "text" : "at the ground."},
+			{ "id" : 2, "text" : "in a safe direction."},
+			{ "id" : 3, "text" : "at the target."}
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "Is the following statement correct? The first rule of safety when handling a firearm is to assume that every firearm is loaded?",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "Is the following statement correct? Firearms should be unloaded when not actually in use.",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}			
+		],
+		"correct"  : 0,
+		"feedback" : "Firearms should be loaded only when you are in the field or on the target range or shooting area, ready to shoot. When not in use, firearms and ammunition should be secured in a safe place, separate from each other." 
+	},
+	{
+		"question" : "Is the following statement correct? Engaging a gun's safety mechanism ensures that the gun is safe to handle?",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 1,
+		"feedback" : "The safety serves as a supplement to proper gun handling but cannot possibly serve as a substitute for common sense. You should never handle a gun carelessly and assume that the gun won't fire just because the safety is on."
+	},
+	{
+		"question" : "Bullets can travel at high velocity and far beyond the intended target. What is the maximum distance a .22 caliber bullet can travel?",
+		"answers"  : [
+			{"id"  : 0, "text" : "One quarter mile."},
+			{"id"  : 1, "text" : "One half mile."},
+			{"id"  : 2, "text" : "One mile."},
+			{"id"  : 3, "text" : "One and a quarter miles."}
+		],
+		"correct"  : 3,
+		"feedback" : "Be aware that even a .22 caliber bullet can travel over 1 1/4 miles and a high velocity cartridge, such as a 30-06, can send its bullet more than 3 miles. Shotgun pellets can travel 500 yards, and shotgun slugs have a range of over half a mile."
+	},
+	{
+	"question" : "What should you do if your gun fails to fire when the trigger Is pulled?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Keep the muzzle pointed in safe direction."},
+			{"id"  : 1, "text" : "Keep your face away from the breech."},
+			{"id"  : 2, "text" : "Open the action and unload firearm."},
+			{"id"  : 3, "text" : "All of the answers shown are correct."}
+		],
+		"correct"  : 3,
+		"feedback" : "Any time there is a cartridge in the chamber, your gun is loaded and ready to fire even if you've tried to shoot and it did not go off. It could go off at any time, so you must always remember to watch that muzzle direction!"
+		},
+		{
+	"question" : "What is the first step you should take to prove a firearm is safe?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Remove all the ammunition."},
+			{"id"  : 1, "text" : "Examine the bore for any obstructions."},
+			{"id"  : 2, "text" : "Point the firearm in a safe direction."},
+			{"id"  : 3, "text" : "Make sure the action is open."}
+		],
+		"correct"  : 2
+	}
+
+]
